@@ -1,0 +1,13 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+Where can I find APIs?
+
+-   [APIs.guru](https://apis.guru/)
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
